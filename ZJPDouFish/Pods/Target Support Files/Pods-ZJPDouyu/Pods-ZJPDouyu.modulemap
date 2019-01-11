@@ -1,0 +1,6 @@
+framework module Pods_ZJPDouyu {
+  umbrella header "Pods-ZJPDouyu-umbrella.h"
+
+  export *
+  module * { export * }
+}
